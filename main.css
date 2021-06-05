@@ -86,7 +86,7 @@ p {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: linear-gradient(rgba(60, 100, 187, 0.7), rgba(51, 150, 180, 0.2)), url("data/asso.jpg");
+  background: linear-gradient(rgba(60, 100, 187, 0.7), rgba(51, 150, 180, 0.2)), url("data/nonprofit.jpg");
   background-size: cover;
 }
 
